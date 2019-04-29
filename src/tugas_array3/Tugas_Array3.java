@@ -109,7 +109,8 @@ public class Tugas_Array3 {
   
    
    
-  
+  //INI GUNANNYA UNTUK MENAMPILKAN DATA ARRAY KE BENTUK MATRIKS
+   //ADA KOLOM ADA BARIS (I)=BARIS (J)=KOLOM
    public void tampil (double data [][])
    {  //mendeklarasikan baris dan kolom 
        int i ,j; // i = baris , j= kolom
